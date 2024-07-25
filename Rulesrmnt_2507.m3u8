@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:0,Aaj tak
+#EXTGRP:TSneh SonyLIV
+https://approved-from-warrior-proposal.trycloudflare.com/app/live.php?id=173&e=.m3u
+#EXTINF:0,Abp News
+#EXTGRP:TSneh SonyLIV
+https://approved-from-warrior-proposal.trycloudflare.com/app/live.php?id=177&e=.m3u
+#EXTINF:0,NDTV 24x7
+#EXTGRP:TSneh SonyLIV
+https://approved-from-warrior-proposal.trycloudflare.com/app/live.php?id=255&e=.m3u
+#EXTINF:0,NDTV India
+#EXTGRP:TSneh SonyLIV
+https://approved-from-warrior-proposal.trycloudflare.com/app/live.php?id=258&e=.m3u
+#EXTINF:0,India news
+#EXTGRP:TSneh SonyLIV
+https://approved-from-warrior-proposal.trycloudflare.com/app/live.php?id=498&e=.m3u
+#EXTINF:0,News 24
+#EXTGRP:TSneh SonyLIV
+https://approved-from-warrior-proposal.trycloudflare.com/app/live.php?id=501&e=.m3u
+#EXTINF:0,Zee News
+#EXTGRP:TSneh SonyLIV
+https://approved-from-warrior-proposal.trycloudflare.com/app/live.php?id=504&e=.m3u
+#EXTINF:0,News18 India
+#EXTGRP:TSneh SonyLIV
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/index.m3u8
+#EXTINF:0,News18 BIHAR
+#EXTGRP:TSneh SonyLIV
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Bihar_Jharkhand_voot_MOB/Fallback/index.m3u8
+#EXTINF:0,SONY HD
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:0,SONY SAB HD
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:0,SONY PAL
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:0,Star Gold [FHD]
+#EXTGRP:TSneh SonyLIV
+http://xtv.ooo:8080/live/Ali6677/112233/66178.m3u8
+#EXTINF:0,SONY PIX HD
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:0,SONY MAX
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:0,SONY MAX HD
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:0,SONY MAX2
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:0,SONY WAH
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:0,SONY TEN 1 HD
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:0,SONY TEN 1
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF:0,SONY TEN 2 HD
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:0,SONY TEN 2
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF:0,SONY TEN 3 HD
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:0,SONY TEN 3
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:0,SONY TEN 4 HD
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTINF:0,SONY TEN 4
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#EXTINF:0,SONY TEN 5 HD
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:0,SONY TEN 5
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF:0,SONY BBC EARTH HD
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:0,SONY YAY
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:0,SONY MARATHI
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#EXTINF:0,SONY AATH
+#EXTGRP:TSneh SonyLIV
+https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+#EXTINF:0,SONY KAL
+#EXTGRP:TSneh SonyLIV
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Colors HD
+#EXTGRP:TSneh SonyLIV
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
+#EXTINF:0,Star Gold HD
+#EXTGRP:TSneh SonyLIV
+http://xtv.ooo:8080/live/Ali6677/112233/66177.m3u8
+#EXTINF:0,Star Gold [FHD]
+#EXTGRP:TSneh SonyLIV
+http://xtv.ooo:8080/live/Ali6677/112233/66178.m3u8
+#EXTINF:0,Sony Max HD
+#EXTGRP:TSneh SonyLIV
+http://xtv.ooo:8080/live/Ali6677/112233/66179.m3u8
+#EXTINF:0,& Pictures HD
+#EXTGRP:TSneh SonyLIV
+http://xtv.ooo:8080/live/Ali6677/112233/66181.m3u8
+#EXTINF:0,& Pictures FHD
+#EXTGRP:TSneh SonyLIV
+http://xtv.ooo:8080/live/Ali6677/112233/66183.m3u8
+#EXTINF:0,Aaj tak
+#EXTGRP:TSneh SonyLIV
+https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=689
+#EXTINF:0,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png" group-title="News",Aaj Tak HD
+#EXTGRP:News
+https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=689
+#EXTINF:0,fl_lossy,q_auto,h_250,w_250/
+#EXTGRP:unsorted
+https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52679-k7zx7qqg-v1/imageContent-52679-k7zx7qqg-m2.png"
